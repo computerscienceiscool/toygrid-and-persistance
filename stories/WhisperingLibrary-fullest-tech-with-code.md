@@ -385,4 +385,4 @@ And so, the Whispering Library endures, ever ready to welcome the next dreamer w
 - **ChronoLens**: A specialized UI component that replays historical CRDT updates by fetching and verifying each CID.
 - **Garden of Forgotten Drafts**: A secondary Helia namespace where quarantined or archived CIDs are stored for potential recovery.
 
-By integrating these code examples into the story, this document serves as both a narrative and a technical reference for how PromiseGrid’s and ToyGrid’s core technologies work together to create a fully distributed, collaborative editing environment. fileciteturn7file0
+By integrating these code examples into the story, this document serves as both a narrative and a technical reference for how PromiseGrid’s and ToyGrid’s core technologies work together to create a fully distributed, collaborative editing environment. 
